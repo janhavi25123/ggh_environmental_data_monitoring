@@ -1,5 +1,5 @@
 # ggh_environmental_data_monitoring
-I intend to undertake the task of processing and analyzing diverse categories of environmental data to forecast the temperature for the following day, leveraging historical data. Subsequently, I will engage in data cleansing procedures to ensure the data is devoid of any inconsistencies or errors, rendering it suitable for employment in machine learning applications. I will proceed by constructing a system that can generate predictions based on historical patterns. Furthermore, I plan to augment the model by incorporating additional predictors to enhance its predictive capabilities. Ultimately, I will focus on establishing a methodology to facilitate predictions for the subsequent day.
+I will analyze different types of environmental data to predict tomorrow's temperature based on historical information. To ensure accuracy, I will clean and prepare the data for machine learning. I will then build a system that can make predictions based on past patterns. Additionally, I will improve the model by including more factors that affect temperature. Finally, I will develop a method to predict the temperature for the next day.
 
 Project Steps
 
@@ -9,6 +9,7 @@ Project Steps
 4. Improve model accuracy
 
 File overview:
+
 temperature_prediction.ipynb - predict the temperature
 
 Data: I have downloaded the dataset from NOAA, a US government agency. 
