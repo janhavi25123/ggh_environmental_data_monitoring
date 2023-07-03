@@ -13,6 +13,7 @@ Project Steps
 File overview:
 
 temperature_prediction.ipynb - predict the temperature
+
 CHARLESTON_INTL_AIRPORT.csv - dataset used for prediction
 
 Data: I have downloaded the dataset from NOAA, a US government agency. 
